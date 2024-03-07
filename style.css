@@ -1,0 +1,168 @@
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hyra {
+    color: #0802a3;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+.m-bar a {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.up-in {
+    font-size: 15px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.up button{
+    color: #0802a3;
+}
+
+.in button {
+    background-color: #0802a3;
+}
+
+.Discover h1 {
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+}
+
+.Discover {
+    margin-top: 100px;
+}
+
+.Discover p {
+    color: #464647;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    width: 350px;
+    
+}
+
+.below-bar {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.carousel {
+    margin-left: 200px;
+}
+
+.chooose p {
+    color: black;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.hyra1 {
+    background-color: #0802a3;
+    margin-right: 100px;
+}
+
+.hyra2 {
+    background-color: #ff7676;
+    margin-right: 100px;
+}
+
+.hyra3 {
+    background-color: #ff4b91;
+    margin-right: 100px;
+}
+
+.hyra4 {
+    background-color: #ffcd4b;
+}
+
+.Pillars {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+
+
+}
+
+.Pillars a {
+    color: #4F0101;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.islam {
+    border: 1px solid #0802a3;
+    width: 350px;
+    height: 200px;
+    padding: 10px;
+    padding-top: 40px;
+    padding-left: 100px;
+}
+
+.faith {
+    border: 1px solid #ff7676;
+    width: 350px;
+    height: 200px;
+    padding: 10px;
+}
+
+.Prophets {
+    border: 1px solid #ff7676;
+    width: 350px;
+    height: 200px;
+    padding: 10px;
+}
+
+.view button{
+    background-color: #0802a3;
+    /* border: 1px solid red; */
+    padding: 10px;
+    width: 250px;
+    border-radius: 5px;
+}
+
+.Seeking {
+    background-color: #ff4b91;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.knowledge p {
+    font-size: 32px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    margin-left: 100px;
+}
+
+.get {
+    padding-left: 100px;
+}
+
+.get button {
+    color: #ff4b91;
+    padding: 10px;
+    border-radius: 7px;
+    border: none;
+}

@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.login button {
+    background-color: blue;
+    /* border: 2px solid red; */
+    width: 300px;
+    color: white;
+}
